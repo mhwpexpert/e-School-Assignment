@@ -39,7 +39,7 @@ header {
     margin-bottom: 2rem;
 }
 
-.card img {
+.card-section img {
     width:4.5rem;
 }
 
@@ -48,6 +48,7 @@ header {
     border:white;
     background-color:#F8FFFB;
     margin-top: 3rem;
+    border-radius: 0.5rem;
     
 }
 
@@ -58,4 +59,17 @@ header {
 .card-section:hover {
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     background-color: white;
+    border-radius: 0.5rem;
+}
+
+.online {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.row {
+    margin-top: 4rem;
+
 }
