@@ -1,0 +1,27 @@
+body {
+    background-color: #F0FFF0;
+}
+.logo {
+    width: 30%;
+
+}
+
+.container {
+    margin-top: 1%;
+}
+.nav-resize li {
+    padding-left: 1rem;
+    font-weight: 500;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+        
+}
+
+#sign_in_text {
+    width: 104px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    text-align: center;
+}
