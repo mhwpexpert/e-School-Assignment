@@ -10,7 +10,7 @@ header {
 }
 
 .banner {
-    margin-top: 5rem;
+    margin-top: 3rem;
 }
 
 .nav-resize li {
@@ -72,4 +72,28 @@ header {
 .row {
     margin-top: 4rem;
 
+}
+
+.card_footer_left img {
+    width: 30px;
+}
+.card_footer_right img {
+    width: 25px;
+}
+
+.card_footer {
+}
+
+.card_footer_right {
+ margin-left: auto;
+padding-right: 20px;
+
+}
+.card_footer_left {
+    margin-right: auto;
+    padding-left: 20px;
+}
+
+.card_footer_left p {
+    padding-left: 05px;
 }
